@@ -1,0 +1,6 @@
+{
+  "name": "FlowState Wellness",
+  "description": "A holistic wellness platform featuring an extensive yoga asana library, interactive breathwork and meditation timers, cycle syncing guidance, and an AI wellness companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
